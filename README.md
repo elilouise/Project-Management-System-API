@@ -30,5 +30,5 @@ This is a Python-based Project Management System designed for a company to manag
 - Projects are marked as “In Progress” or “Completed” accordingly.
 
 ### Saving and Loading Data
-- Project, task, user, and team member information is saved in a file (e.g., `projects.json`) or a database.
+- Project, task, user, and team member information is saved in a database.
 - Data is loaded when the program starts, ensuring continuity.
