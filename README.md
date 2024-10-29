@@ -1,4 +1,4 @@
-# Project Management System 
+# Project Management System API
 
 ## Overview
 This is a Python-based Project Management System designed for a company to manage projects, tasks, and team members. The system includes user authentication with different access levels for managers and team members, providing an organized way to monitor project progress and efficiently assign tasks.
